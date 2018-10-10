@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>08/10/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Joe" label="Joe" />
+      <node id="Becky" label="Becky" />
+      <node id="Mr. Jones" label="Mr. Jones" />
+      <node id="Aunt Polly" label="Aunt Polly" />
+      <node id="Judge" label="Judge" />
+      <node id="Jim" label="Jim" />
+      <node id="Potter" label="Potter" />
+      <node id="Amy" label="Amy" />
+      <node id="Mr. Walters" label="Mr. Walters" />
+      <node id="Mary" label="Mary" />
+      <node id="Mr. Sprague" label="Mr. Sprague" />
+      <node id="Injun Joe" label="Injun Joe" />
+      <node id="Ben" label="Ben" />
+      <node id="Widow Douglas" label="Widow Douglas" />
+      <node id="Huck" label="Huck" />
+      <node id="Mr. Dobbins" label="Mr. Dobbins" />
+      <node id="Robinson" label="Robinson" />
+      <node id="Alfred Temple" label="Alfred Temple" />
+      <node id="Tom" label="Tom" />
+      <node id="Sid" label="Sid" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Joe" target="Becky" weight="12" />
+      <edge id="1" source="Joe" target="Judge" weight="4" />
+      <edge id="2" source="Joe" target="Aunt Polly" weight="10" />
+      <edge id="3" source="Joe" target="Jim" weight="3" />
+      <edge id="4" source="Joe" target="Potter" weight="9" />
+      <edge id="5" source="Joe" target="Amy" weight="2" />
+      <edge id="6" source="Joe" target="Tom" weight="46" />
+      <edge id="7" source="Joe" target="Injun Joe" weight="22" />
+      <edge id="8" source="Joe" target="Ben" weight="5" />
+      <edge id="9" source="Joe" target="Widow Douglas" weight="4" />
+      <edge id="10" source="Joe" target="Huck" weight="35" />
+      <edge id="11" source="Joe" target="Robinson" weight="2" />
+      <edge id="12" source="Joe" target="Alfred Temple" weight="1" />
+      <edge id="13" source="Joe" target="Mary" weight="8" />
+      <edge id="14" source="Joe" target="Sid" weight="12" />
+      <edge id="15" source="Becky" target="Mr. Jones" weight="1" />
+      <edge id="16" source="Becky" target="Aunt Polly" weight="7" />
+      <edge id="17" source="Becky" target="Jim" weight="1" />
+      <edge id="18" source="Becky" target="Mr. Dobbins" weight="3" />
+      <edge id="19" source="Becky" target="Amy" weight="4" />
+      <edge id="20" source="Becky" target="Tom" weight="24" />
+      <edge id="21" source="Becky" target="Injun Joe" weight="4" />
+      <edge id="22" source="Becky" target="Widow Douglas" weight="5" />
+      <edge id="23" source="Becky" target="Ben" weight="5" />
+      <edge id="24" source="Becky" target="Huck" weight="9" />
+      <edge id="25" source="Becky" target="Alfred Temple" weight="4" />
+      <edge id="26" source="Becky" target="Judge" weight="6" />
+      <edge id="27" source="Becky" target="Mary" weight="3" />
+      <edge id="28" source="Becky" target="Sid" weight="3" />
+      <edge id="29" source="Mr. Jones" target="Judge" weight="1" />
+      <edge id="30" source="Mr. Jones" target="Aunt Polly" weight="3" />
+      <edge id="31" source="Mr. Jones" target="Widow Douglas" weight="2" />
+      <edge id="32" source="Mr. Jones" target="Ben" weight="1" />
+      <edge id="33" source="Mr. Jones" target="Huck" weight="3" />
+      <edge id="34" source="Mr. Jones" target="Tom" weight="3" />
+      <edge id="35" source="Mr. Jones" target="Mary" weight="2" />
+      <edge id="36" source="Mr. Jones" target="Sid" weight="2" />
+      <edge id="37" source="Aunt Polly" target="Judge" weight="3" />
+      <edge id="38" source="Aunt Polly" target="Jim" weight="3" />
+      <edge id="39" source="Aunt Polly" target="Potter" weight="1" />
+      <edge id="40" source="Aunt Polly" target="Amy" weight="1" />
+      <edge id="41" source="Aunt Polly" target="Tom" weight="24" />
+      <edge id="42" source="Aunt Polly" target="Mr. Sprague" weight="1" />
+      <edge id="43" source="Aunt Polly" target="Injun Joe" weight="2" />
+      <edge id="44" source="Aunt Polly" target="Widow Douglas" weight="4" />
+      <edge id="45" source="Aunt Polly" target="Ben" weight="3" />
+      <edge id="46" source="Aunt Polly" target="Mr. Dobbins" weight="1" />
+      <edge id="47" source="Aunt Polly" target="Huck" weight="10" />
+      <edge id="48" source="Aunt Polly" target="Alfred Temple" weight="1" />
+      <edge id="49" source="Aunt Polly" target="Mary" weight="10" />
+      <edge id="50" source="Aunt Polly" target="Sid" weight="16" />
+      <edge id="51" source="Judge" target="Jim" weight="2" />
+      <edge id="52" source="Judge" target="Amy" weight="2" />
+      <edge id="53" source="Judge" target="Mr. Walters" weight="2" />
+      <edge id="54" source="Judge" target="Mary" weight="2" />
+      <edge id="55" source="Judge" target="Injun Joe" weight="2" />
+      <edge id="56" source="Judge" target="Widow Douglas" weight="5" />
+      <edge id="57" source="Judge" target="Ben" weight="2" />
+      <edge id="58" source="Judge" target="Huck" weight="6" />
+      <edge id="59" source="Judge" target="Tom" weight="9" />
+      <edge id="60" source="Judge" target="Sid" weight="2" />
+      <edge id="61" source="Jim" target="Potter" weight="1" />
+      <edge id="62" source="Jim" target="Mr. Walters" weight="1" />
+      <edge id="63" source="Jim" target="Mary" weight="1" />
+      <edge id="64" source="Jim" target="Amy" weight="1" />
+      <edge id="65" source="Jim" target="Ben" weight="4" />
+      <edge id="66" source="Jim" target="Huck" weight="3" />
+      <edge id="67" source="Jim" target="Tom" weight="8" />
+      <edge id="68" source="Jim" target="Sid" weight="3" />
+      <edge id="69" source="Potter" target="Robinson" weight="2" />
+      <edge id="70" source="Potter" target="Injun Joe" weight="8" />
+      <edge id="71" source="Potter" target="Huck" weight="9" />
+      <edge id="72" source="Potter" target="Tom" weight="9" />
+      <edge id="73" source="Potter" target="Mary" weight="1" />
+      <edge id="74" source="Potter" target="Sid" weight="3" />
+      <edge id="75" source="Amy" target="Mr. Dobbins" weight="1" />
+      <edge id="76" source="Amy" target="Alfred Temple" weight="2" />
+      <edge id="77" source="Amy" target="Mr. Walters" weight="2" />
+      <edge id="78" source="Amy" target="Tom" weight="7" />
+      <edge id="79" source="Amy" target="Ben" weight="2" />
+      <edge id="80" source="Amy" target="Mary" weight="3" />
+      <edge id="81" source="Amy" target="Sid" weight="3" />
+      <edge id="82" source="Mr. Walters" target="Tom" weight="2" />
+      <edge id="83" source="Mr. Walters" target="Mary" weight="1" />
+      <edge id="84" source="Mr. Walters" target="Sid" weight="1" />
+      <edge id="85" source="Mary" target="Tom" weight="17" />
+      <edge id="86" source="Mary" target="Mr. Sprague" weight="1" />
+      <edge id="87" source="Mary" target="Injun Joe" weight="2" />
+      <edge id="88" source="Mary" target="Widow Douglas" weight="2" />
+      <edge id="89" source="Mary" target="Ben" weight="2" />
+      <edge id="90" source="Mary" target="Huck" weight="7" />
+      <edge id="91" source="Mary" target="Alfred Temple" weight="1" />
+      <edge id="92" source="Mary" target="Sid" weight="15" />
+      <edge id="93" source="Mr. Sprague" target="Sid" weight="1" />
+      <edge id="94" source="Mr. Sprague" target="Tom" weight="1" />
+      <edge id="95" source="Injun Joe" target="Ben" weight="3" />
+      <edge id="96" source="Injun Joe" target="Widow Douglas" weight="3" />
+      <edge id="97" source="Injun Joe" target="Huck" weight="19" />
+      <edge id="98" source="Injun Joe" target="Robinson" weight="2" />
+      <edge id="99" source="Injun Joe" target="Tom" weight="21" />
+      <edge id="100" source="Injun Joe" target="Sid" weight="5" />
+      <edge id="101" source="Ben" target="Tom" weight="10" />
+      <edge id="102" source="Ben" target="Mr. Dobbins" weight="1" />
+      <edge id="103" source="Ben" target="Widow Douglas" weight="2" />
+      <edge id="104" source="Ben" target="Huck" weight="6" />
+      <edge id="105" source="Ben" target="Alfred Temple" weight="1" />
+      <edge id="106" source="Ben" target="Sid" weight="3" />
+      <edge id="107" source="Widow Douglas" target="Huck" weight="9" />
+      <edge id="108" source="Widow Douglas" target="Sid" weight="2" />
+      <edge id="109" source="Widow Douglas" target="Tom" weight="9" />
+      <edge id="110" source="Huck" target="Tom" weight="47" />
+      <edge id="111" source="Huck" target="Robinson" weight="2" />
+      <edge id="112" source="Huck" target="Sid" weight="10" />
+      <edge id="113" source="Mr. Dobbins" target="Alfred Temple" weight="3" />
+      <edge id="114" source="Mr. Dobbins" target="Tom" weight="3" />
+      <edge id="115" source="Robinson" target="Tom" weight="2" />
+      <edge id="116" source="Alfred Temple" target="Tom" weight="4" />
+      <edge id="117" source="Tom" target="Sid" weight="25" />
+    </edges>
+  </graph>
+</gexf>
